@@ -1,5 +1,5 @@
 _repo: Titus-Andronicus_1771
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Historical drama'
 - !lcsh 'Rome -- History -- Germanic invasions, 3rd-6th centuries -- Drama'
 - !lcc 'PR'
+- GITenberg
 title: Titus Andronicus
 url: http://www.gutenberg.org/ebooks/1771
